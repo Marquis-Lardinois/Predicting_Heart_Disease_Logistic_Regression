@@ -14,7 +14,7 @@ def get_requirements(file_path:str)->List[str]:
         if HYPHEN_E_DOT in requirements:
             requirements.remove((HYPHEN_E_DOT))
 setup(
-    name='Predicting_Heart_Disease_Logistic_Regression',
+    name='Predicting_Heart_Disease_Logistic_Regressioin',
     version='0.0.1',
     author='Marquis',
     author_email='Marquislard@gmail.com',
