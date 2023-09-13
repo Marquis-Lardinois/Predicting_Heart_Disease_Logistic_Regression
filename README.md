@@ -1,3 +1,3 @@
-# Heart Disease Prediction with Logistic Regression 
+# Logistic Regression for Heart Disease Prediction
 ## by Marquis Lardinois
 
