@@ -1,4 +1,4 @@
-# Logistic Regression for Heart Disease Prediction with 
+# Predicting Heart Disease with Machine Learning 
 ## by Marquis Lardinois
 
 ### Background
