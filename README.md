@@ -1,7 +1,7 @@
 # Predicting Heart Disease with Machine Learning 
 ## by Marquis Lardinois
 ### Click to access Notebook Directly:
-https://github.com/Marquis-Lardinois/Predicting_Heart_Disease_Logistic_Regression/blob/36908c98fcb3ee81c49b63ce95f44a8de5a1caa8/Heart_Prediction.ipynb
+[See Jupyter Notebook](https://github.com/Marquis-Lardinois/Predicting_Heart_Disease_Logistic_Regression/blob/36908c98fcb3ee81c49b63ce95f44a8de5a1caa8/Heart_Prediction.ipynb)
 
 ## Background
 🌎 Globally, the World Health Organization estimates a staggering 12 million people die from heart diseases annually. In developed nations like the United States, cardiovascular diseases account for half of all deaths.
