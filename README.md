@@ -1,6 +1,6 @@
 # Predicting Heart Disease with Machine Learning 
 ## by Marquis Lardinois
-
+### Click to access Notebook Directly:
 https://github.com/Marquis-Lardinois/Predicting_Heart_Disease_Logistic_Regression/blob/36908c98fcb3ee81c49b63ce95f44a8de5a1caa8/Heart_Prediction.ipynb
 
 ## Background
