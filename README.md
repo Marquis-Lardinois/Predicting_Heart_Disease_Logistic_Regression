@@ -8,8 +8,9 @@ One-third of these deaths occur prematurely in people under 70 years of age.
 
 I developed a predictive model using logistic regression to this Kaggle dataset containing various health indicators. This model uses these indicators to predict the presence of heart disease. 
 
-###Data Description
+### Data Description
 HighBP : Indicates if the person has been told by a health professional that they have High Blood Pressure.
+
 HighChol : Indicates if the person has been told by a health professional that they have High Blood Cholesterol.
 CholCheck : Cholesterol Check, if the person has their cholesterol levels checked within the last 5 years.
 BMI : Body Mass Index, calculated by dividing the persons weight (in kilogram) by the square of their height (in meters).
