@@ -61,3 +61,6 @@ I developed a predictive model using logistic regression to this Kaggle dataset 
 - 13 Age 80 or older
 
 **Education:** Indicates the highest year of school completed, with 0 being never attended or kindergarten only and 6 being, having attended 4 years of college or more.
+
+![img.png](img.png)
+
