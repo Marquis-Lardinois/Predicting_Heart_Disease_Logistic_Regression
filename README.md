@@ -3,3 +3,5 @@
 
 ### Background
 🌎 Globally, the World Health Organization estimates a staggering 12 million people die from heart diseases annually. In developed nations like the United States, cardiovascular diseases account for half of all deaths.
+
+I developed a predictive model using logistic regression to this Kaggle dataset containing various health indicators. 
