@@ -6,4 +6,5 @@ plotly
 scikit-learn
 ipympl
 dash
+pyarrow
 #-e .
