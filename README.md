@@ -1,4 +1,4 @@
-# Predicting Heart Disease in Children with Machine Learning 
+# Predicting Heart Disease with Machine Learning 
 ## by Marquis Lardinois
 
 ### Background
@@ -6,4 +6,4 @@
 
 One-third of these deaths occur prematurely in people under 70 years of age.
 
-I developed a predictive model using logistic regression to this Kaggle dataset containing various health indicators. This model uses these indicators to predict the presence of heart disease in children 13 years old and younger. 
+I developed a predictive model using logistic regression to this Kaggle dataset containing various health indicators. This model uses these indicators to predict the presence of heart disease. 
